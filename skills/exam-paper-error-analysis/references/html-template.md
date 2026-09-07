@@ -138,7 +138,7 @@ HTML 报告**必须包含以下全部 6 个部分**，所有章节的 HTML 结�
             </div>
         </div>
         
-        <!-- 3. 整卷失分分析（SKILL.md 256-280行） -->
+        <!-- 3. 整卷失分分析（对应 SKILL.md「子能力 2：整卷失分分析」） -->
         <h2 id="paper-loss-map">一、失分地图[（按能力维度）]</h2>
         <table>
             <tr><th>知识点/能力维度</th><th>失分</th><th>涉及题号</th><th>失分率</th><th>[对应岗位能力]</th></tr>
@@ -154,7 +154,7 @@ HTML 报告**必须包含以下全部 6 个部分**，所有章节的 HTML 结�
         
         <hr class="section-divider">
         
-        <!-- 4. 错题逐题分析（SKILL.md 192-229行） -->
+        <!-- 4. 错题逐题分析（对应 SKILL.md「子能力 1：单题深度分析」七步框架） -->
         <h2 id="q1">第 1 题深度分析</h2>
         
         <h3>一、这道题考查的核心能力</h3>
@@ -192,7 +192,7 @@ HTML 报告**必须包含以下全部 6 个部分**，所有章节的 HTML 结�
         
         <hr class="section-divider">
         
-        <!-- 5. 变式练习（SKILL.md 304-319行） -->
+        <!-- 5. 变式练习（对应 SKILL.md「子能力 3：变式题生成」） -->
         <h2 id="variant-basic">一、基础巩固题（[N]道）</h2>
         <div class="question-card">
             <h4>题 1</h4>
@@ -222,7 +222,7 @@ HTML 报告**必须包含以下全部 6 个部分**，所有章节的 HTML 结�
         
         <hr class="section-divider">
         
-        <!-- 6. 错题分类讲评建议（error-types.md 231-253行） -->
+        <!-- 6. 错题分类讲评建议（对应 error-types.md 六类错误的讲评策略） -->
         <h2 id="class-stats">一、错题分类统计</h2>
         <table>
             <tr><th>错误类型</th><th>题号</th><th>人数/比例</th><th>典型表现</th></tr>
